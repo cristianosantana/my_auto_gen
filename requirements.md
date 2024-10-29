@@ -26,6 +26,7 @@
 
 ## Dentro do enviromment
 
-### Instalar AutoGen
+### Instalar AutoGen, flaml
 
 * pip3 install autogen-agentchat==0.2.36
+* pip3 install "flaml[automl]"
