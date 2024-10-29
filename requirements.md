@@ -29,5 +29,3 @@
 ### Instalar AutoGen
 
 * pip3 install autogen-agentchat==0.2.36
-
-
